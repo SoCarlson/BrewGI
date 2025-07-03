@@ -13,14 +13,14 @@ To install brew:
 [Brew Homepage](https://brew.sh)
 
 To install python3:
-'''shell
+```shell
 brew install python
-'''
+```
 
 Install PyQt5
-'''shell
+```shell
 python3 -m pip install PyQt5
-'''
+```
 
 Also this project was made with help from GitHub Copilot Ai. 
 
