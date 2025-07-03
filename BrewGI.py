@@ -4,7 +4,7 @@
 # Unofficial project, not affiliated with Homebrew or Apple.
 
 # BrewGI allows you to view installed Homebrew apps, search for new ones, uninstall selected apps, and import/export app lists in JSON format.
-# Note: This script requires PyQt5 and Homebrew to be installed on your macOS system.
+# Note: This script requires Python, PyQt5, and Homebrew to be installed on your macOS system.
 
 
 import json
